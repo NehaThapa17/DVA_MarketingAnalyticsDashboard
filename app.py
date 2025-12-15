@@ -1,7 +1,7 @@
 """
 NovaMart Marketing Analytics Dashboard
 =============================================
-Masters of AI in Business - Data Visualization Assignment
+Neha Thapa , Masters of AI in Business - Data Visualization Assignment 
 
 A comprehensive Streamlit dashboard for marketing analytics, including
 campaign performance, customer insights, product analysis, and ML model evaluation.
@@ -617,3 +617,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
