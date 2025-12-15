@@ -98,7 +98,7 @@ def sidebar():
     )
     
     st.sidebar.markdown("---")
-    st.sidebar.info("**Masters of AI in Business**\n\nData Visualization Assignment\n\n*NovaMart - Marketing Analytics Dashboard*")
+    st.sidebar.info("**Neha Thapa**\n\nMasters of AI in Business**\n\nData Visualization Assignment\n\n*NovaMart - Marketing Analytics Dashboard*")
     
     return page
 
@@ -617,4 +617,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
